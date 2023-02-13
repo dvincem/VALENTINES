@@ -1,6 +1,5 @@
 body{
     background-color: rgba(240, 193, 255, 0.521);
-
 }
 #myBtn {
     display: none;
@@ -17,7 +16,13 @@ body{
     padding: 15px;
     border-radius: 4px;
 }
-  
 #myBtn:hover {
     background-color: #555;
+}
+.container-watch {
+    position: relative;
+}
+  
+#myVideo {
+    background-color: black;
 }
